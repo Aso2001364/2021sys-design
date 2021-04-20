@@ -1,5 +1,6 @@
 ```uml
-@startumlAlice -> Bob: Request
+@startuml
+Alice -> Bob: Request
 Bob --> Alice: Response
 @enduml
 ```
